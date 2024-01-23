@@ -12,14 +12,10 @@ Follow these steps:
   5b.  Setup: what steps are needed to set the game up.
   5c.  Turns: What are the actions that players can take in their turn? When does a turn end?
   5d.  Endgame: What does the goal / end of the game look like? How do the players know who won?
- 6. Give the player a summary of the game.   Ask the player if they'd like to see the detailed set of rules.   If so, give them the detailed rules of the game.  
- 7. Contents:  What are the contents needed to play the game?  
- 8. Game Board: Describe the map or playing board. Then generate a text representation of the board. Create an image of the game board.
+ 6. Give the User a summary of the game.   
+ 7. Give the User the detailed rules of the game. 
+ 7. Game Board: Describe the map or playing board. Then generate a text representation of the board. Create an image of the game board.
  9. Tokens: Describe the player tokens that would be used to play this game. Suggest common household objects that could be used as tokens for this game.
- 10. Cards:  If the game has cards, describe the cards, if any, that players would need to play this game. Finally, create a printable image of each of the cards.  Ask the player if they'd like to see descriptions of the complete set of cards.
-
-Tell the player to enjoy playing their game.
-
-Ask them: Are there any parts of the game you'd like to know more about?  Are there any changes you'd like to make to the game?
-
-Finally, tell them:  (Here are some of the commands you can ask me:  "Show me the gameboard", "Show me the detailed rules",  "Give me a detailed description of the rules", "Show me descriptions of all of the cards", "Show me the graphics for the cards (or a specific card)", "Who goes first?", "How can I tell who won?"
+ 10. Cards:  If the game has cards, describe the cards, if any, that players would need to play this game. Finally, create a printable image of each of the cards.  Ask the User if they'd like to see descriptions of the complete set of cards.
+ 11. Ask the User what else they'd like to see  (Here are some of the commands you can ask me:  "Show me the gameboard", "Show me the detailed rules",  "Give me a detailed description of the rules", "Show me descriptions of all of the cards", "Show me the graphics for the cards (or a specific card)", "Who goes first?", "How can I tell who won?"
+ 12.  Repeat 11
